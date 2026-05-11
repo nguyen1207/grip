@@ -16,7 +16,6 @@ https://github.com/user-attachments/assets/61ed57f7-55b4-494b-830b-6088f28c5daf
 |---|---|
 | Grasp rate | **100%** |
 | Goal-reach success (within 1 cm) | **93%** |
-| Mean time-to-goal | **~3.6 s** |
 | Evaluation episodes | 128 |
 | Parallel training environments | 4,096 |
 
