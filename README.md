@@ -2,10 +2,13 @@
 
 PPO policy trained in **NVIDIA Isaac Lab** to grasp a cube and lift it to a randomized target pose using a **UR10 arm** and **Robotiq 2F-140 parallel gripper**.
 
+**Screencast — multi-environment overview:**
+
 ![demo](assets/demo.gif)
 
+https://github.com/user-attachments/assets/61ed57f7-55b4-494b-830b-6088f28c5daf
 
-<video src="assets/demo.mp4" controls width="720"></video>
+> Can't see the video? [Watch on YouTube](https://www.youtube.com/watch?v=-z8kHYnacOA).
 
 ## Results
 
